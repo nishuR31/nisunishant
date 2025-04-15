@@ -1,9 +1,14 @@
 
 ### <h1 align="center">👋 Hi, I'm Nishant (Nisu) | Passionate Full-Stack Developer</h1>
 
+
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=🚀+Building+the+Web+One+Line+at+a+Time;💡+Open-Source+Enthusiast;🌱+Continuous+Learner;✨+Turning+Coffee+into+Code" alt="Animated Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=blueviolet&center=true&vCenter=true&width=2000&lines=🚀+Building+the+Web+One+Line+at+a+Time;💡+Open-Source+Enthusiast;🌱+Continuous+Learner;✨+Turning+Coffee+into+Code" alt="Typing SVG">
 </div>
+
+
+
 
 ---
 
