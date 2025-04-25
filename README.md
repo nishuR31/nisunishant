@@ -1,10 +1,10 @@
 
-### <h1 align="center">👋 Hi, I'm Nishant (Nisu) | Passionate Full-Stack Developer</h1>
+# <h1 align="center">👋 Hi, I'm Nishant (Nisu) | Passionate Full-Stack Developer</h1>
 
 
 ---
 
-### 🔥 **Coding Journey**
+## 🔥 **Coding Journey**
 A dedicated student mastering the MERN stack (MongoDB, Express, React, Node.js) with expertise in **Java**, **Python**, and **C**. Currently diving deep into cloud technologies and system design to build scalable solutions.
 
 ```java
@@ -43,19 +43,19 @@ public class Passion {
 ---
 
 ### 📊 **GitHub Analytics**
+[![Nisu's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisunishant&theme=midnight_purple&show_icons=true&include_all_commits=true&bg_color=00000000)](https://github.com/nisunishant)
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=nisunishant&theme=midnight-purple&fire=8A2BE2">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nisunishant&show_icons=true&theme=midnight-purple&include_all_commits=true">
-  </a>
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisunishant&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=00000000&include_all_commits)](https://github.com/nisunishant)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisunishant&layout=compact&theme=midnight-purple">
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=nisunishant&theme=midnight-purple&hide_border=false&background=00000000)](https://github.com/nisunishant)
+
+<br>
+
+[![Nisu's Contributions](https://github-contributor-stats.vercel.app/api?username=nisunishant&theme=midnight-purple&bg_color=00000000&show_icons=true&repos_count=5&border_radius=12&include_orgs=true&disable_animations=false)](https://github.com/nisunishant)
+<br>
+![Nisu Stats](https://github-readme-stats.vercel.app/api?username=nisunishant&show_icons=true&theme=midnight-purple&include_all_commits=true)
+<br>
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisunishant&layout=compact&theme=midnight-purple)
 
 ---
 
